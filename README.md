@@ -1,4 +1,6 @@
 # QA-Engineer
+
+LOGIN TWITTER
 Langkah 1 — Install Selenium IDE
 Selenium dapat dijalankan pada extension chrome maupun firefox. 
 Aplikasi ini dapat langsung diunduh melalui website selenium atau melalui extension firefox dan chrome.
@@ -29,3 +31,6 @@ Untuk menjalankan test case tekan button play seperti pada gambar yang dilingkar
 
 Selanjutnya, hasil pengujian dapat diketahui melalui menu log seperti pada gambar di bawah ini
 ![6](https://user-images.githubusercontent.com/43885178/115031327-3990d780-9ef2-11eb-9f89-60cc6fca3afa.PNG)
+
+
+POST TEXT dan IMAGE di TWITTER
