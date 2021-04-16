@@ -34,3 +34,8 @@ Selanjutnya, hasil pengujian dapat diketahui melalui menu log seperti pada gamba
 
 
 POST TEXT dan IMAGE di TWITTER
+1. Download PostTextdanImagediTwitter.zip
+2. Ekstrak file
+3. open project dari eclipse 
+4. Run As 
+5. Java Application
